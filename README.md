@@ -1,0 +1,2 @@
+# TestForClass
+Demo for settings.
